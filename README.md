@@ -1,5 +1,8 @@
 Log date : 2015.08.17;
 Logger: Lucas
+
+
+
 ========================
 First log, did some work on a template for the main page of the web page. 
 Interactive bubble design.
