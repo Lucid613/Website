@@ -2,7 +2,7 @@
 Development for Lucid website
 
 ========================
-Log date = 2015.08.17
+Log date : 2015.08.17
 Logger: Lucas
 ========================
 First log, did some work on a template for the main page of the web page. 
@@ -18,16 +18,19 @@ One main bubble at the start, with 4 bubble detaching from the main one.
 		This tab will have either an embedded soundcloud/hearthis player or if we can
 		build a player ourself /*would be pretty cool*/ integrated in this category. 
 		This tab can also branch out to our Mech page. /*Maybe we should rename the music tab?*/.
-		I also would like to have this page have either favourites tab for a weekly/monthly updated
-		list of our favourite songs and upcoming artists to look at. /*This could be a feature integrated later*/
+		I also would like to have this page have either favourites tab for a weekly/monthly 
+		updated list of our favourite songs and upcoming artists to look at. 
+		/*This could be a feature integrated later*/
 		
 	- Faqs:
-		Pretty much says it for itself, frequently asked questions and answers to stuff that we want people to know
-		about us. Not sure about the layout for this one but we could brainstorm a couple things and look at examples.
+		Pretty much says it for itself, frequently asked questions and answers to stuff that 
+		we want people to know about us. Not sure about the layout for this one but we could 
+		brainstorm a couple things and look at examples.
 		
 	- Contact:
-		This page I have less experience with but whoever knows php/python for emailing form you're on this page.
-		I was thinking pretty basic stuff, Name, Email, Subject, Message. Again, not sure about the layout.
+		This page I have less experience with but whoever knows php/python for emailing form 
+		you're on this page. I was thinking pretty basic stuff, Name, Email, Subject, Message. 
+		Again, not sure about the layout.
 		
 Each bubble could branch out to a sub field about that category, not all bubble needs to be but I'm sure we can
 find stuff to branch out to. Also I personally would like the animation for clicking on a bubble to go as the 
