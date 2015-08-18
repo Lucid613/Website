@@ -1,7 +1,4 @@
-# Website
-Development for Lucid website
-
-========================
+Log document for Lucid website
 Log date : 2015.08.17
 Logger: Lucas
 ========================
