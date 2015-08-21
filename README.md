@@ -1,6 +1,26 @@
+
+## Installation
+
+1. Download Vagrant or use Linux/Mac OS
+2. Run terminal
+3. Download RVM: https://rvm.io/rvm/install
+3. Run Command:
+		rvm install 2.2.3 
+
+		After installation:
+		gem install sinatra
+		gem install bundler
+
+4. Move to Lucid directory in terminal (Example: home/nick/dev/Lucid)
+5. Run:
+	sudo bundle install
+	sudo rack up 
+	ruby server.rb
+
+## Notes
+
 Log date : 2015.08.17;
 Logger: Lucas
-
 
 
 ========================
