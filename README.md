@@ -6,22 +6,19 @@
 3. Download RVM: https://rvm.io/rvm/install
 3. Run Command:
 		rvm install 2.2.3 
-
-		After installation:
 		gem install sinatra
 		gem install bundler
 
 4. Move to Lucid directory in terminal (Example: home/nick/dev/Lucid)
 5. Run:
-	sudo bundle install
-	sudo rack up 
-	ruby server.rb
+		sudo bundle install
+		sudo rack up 
+		ruby server.rb
 
 ## Notes
 
 Log date : 2015.08.17;
 Logger: Lucas
-
 
 ========================
 First log, did some work on a template for the main page of the web page. 
