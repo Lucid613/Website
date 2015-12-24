@@ -60,11 +60,11 @@ following:
 	haven't thought of what each wrapper would look, I'd like to keep each somewhat similar, but each have their
 	own settings and style.	
 	
-Now I have no idea how to actually code this lol, but I know its possible if we put our heads together and bring 
-out all our artistic skills. I can try and do some of the designs on Photoshop.
-Eric I know your decent at drawing stuff out on paper, but also any of you can and I can replicate it digitally.
-I'm down to use Github for this project since I want to start learning it and I think this is a perfect start to 
-learning it. 
+Now I have no idea how to actually code this lol (at this point I think you should probably try using Python.
+You'd be using it for netsec and it's good for web development, both serverside and user side. It's good
+practice.), but I know its possible if we put our heads together and bring out all our artistic skills. 
+I can try and do some of the designs on Photoshop. Eric I know your decent at drawing stuff out on paper, 
+but also any of you can and I can replicate it digitally. I'm down to use Github for this project since I want to start learning it and I think this is a perfect start to learning it. 
 
 Use this document to keep the team updated and simply use the format I used up top there for the logging
 date and person. I'm pretty pumped to see what we can come up with and this can be something we can put on our resumes.
@@ -75,3 +75,6 @@ it give you a semi idea of what I was looking to do. Obviously I'm up for sugges
 
 Give feedback!
 ========================
+
+* You should really get this going again! Just start with a "How to build a website in Python" google search. Udacity has a good course on the topic. Python may not be absolute best but Google's engines are build in a lot of Python and the skills will translate to other things you'll be doing in Python :0
+* If you do get this going again, I suggest building up your repo's wiki. It's a tab on your repo beside 'Clone' and 'Pull Request'.
