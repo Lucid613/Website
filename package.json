@@ -1,0 +1,12 @@
+{
+  "name": "lucid",
+  "version": "1.0.0",
+  "description": "One page store for Lucid",
+  "author": "Guillaume Beauchesne",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.0"
+  }
+}
